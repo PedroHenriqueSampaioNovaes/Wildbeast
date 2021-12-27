@@ -316,8 +316,8 @@ p {
 
   .sidenav::after {
     content: "→";
-    position: absolute;
-    top: 5px;
+    position: fixed;
+    top: 160px;
     right: 30px;
     color: rgba(0, 0, 0, .3);
     animation: seta .5s ease-in 0s infinite alternate;
