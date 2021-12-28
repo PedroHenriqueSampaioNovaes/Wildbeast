@@ -22,6 +22,16 @@
   --cor3: #fafbfc;
 }
 
+::-moz-selection {
+  background: var(--cor1);
+  color: #fff;
+}
+
+::selection {
+  background: var(--cor1);
+  color: #fff;
+}
+
 * {
   box-sizing: border-box;
 }
