@@ -1,2 +1,3 @@
 # Wildbeast
-Primeiro site meu desenvolvido totalmente em Grid Layout.
+Primeiro site desenvolvido totalmente em Grid Layout.
+Neste projeto conheci as funcionalidades do grid layout e as suas vantagens.
