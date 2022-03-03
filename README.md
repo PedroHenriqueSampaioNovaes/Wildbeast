@@ -1,5 +1,5 @@
 # Wildbeast
-Site desenvolvido com o uso de Grid Layout, tornando mais flexível o posicionamentos dos elementos.
+Site desenvolvido com o uso de Grid Layout, tornando mais flexível o posicionamentos dos elementos. GIT
 <br>
 Neste projeto conheci as funcionalidades do grid layout e as suas vantagens.
 
